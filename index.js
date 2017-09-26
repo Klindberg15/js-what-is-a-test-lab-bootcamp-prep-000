@@ -3,7 +3,7 @@ var name = "Susan"
 var height = "34"
 var message = ` ${name} is ${height} inches tall`
 
-function sayHello() {
+function sayHello('Hello') {
   console.log('Hello!')
 }
 
