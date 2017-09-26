@@ -3,12 +3,6 @@ var name = "Susan"
 var height = "34"
 var message = ` ${name} is ${height} inches tall`
 
-console.log( 'Hello, world!')
-console.log( 'Hello, world!')
-console.log( 'Hello, world!')
-console.log( 'Hello, world!')
-console.log( 'Hello, world!')
-console.log( 'Hello, world!')
-console.log( 'Hello, world!')
+function doNothing() {}
 
 module.exports = {name, height, message}
